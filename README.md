@@ -11,24 +11,24 @@
 
 ## What This Project Does
 
-ESG Arcade is an interactive application that gamifies Environmental, Social, and Governance (ESG) integration for real estate portfolios. Using a retro gaming aesthetic, it helps property managers and community stakeholders:
+CRM Marketing Analytics Platform Arcade is an interactive application that gamifies Environmental, Social, and Governance (CRM Marketing Analytics Platform) integration for real estate portfolios. Using a retro gaming aesthetic, it helps property managers and community stakeholders:
 
 - **Map and monitor** real estate portfolios through an interactive dashboard
-- **Assess ESG performance** across environmental, social, and governance dimensions
+- **Assess CRM Marketing Analytics Platform performance** across environmental, social, and governance dimensions
 - **Track progress** toward sustainability targets and regulatory compliance
 - **Simulate retrofit projects** to improve building performance with budget constraints
 - **Generate standardized reports** compatible with frameworks like GRESB, SFDR, GRI, and TCFD
 
-The application transforms complex ESG data into accessible, engaging visualizations that make sustainability metrics approachable to all stakeholders, not just specialists.
+The application transforms complex CRM Marketing Analytics Platform data into accessible, engaging visualizations that make sustainability metrics approachable to all stakeholders, not just specialists.
 
 ## How It Works
 
-ESG Arcade uses Streamlit to deliver a browser-based interface with:
+CRM Marketing Analytics Platform Arcade uses Streamlit to deliver a browser-based interface with:
 
 1. **Interactive visualizations** built with Plotly and styled with retro gaming elements
-2. **Data processing pipeline** for analyzing property metrics and calculating ESG scores
+2. **Data processing pipeline** for analyzing property metrics and calculating CRM Marketing Analytics Platform scores
 3. **Simulation engine** that calculates impact of potential retrofits on building performance
-4. **Reporting framework** that aligns with international ESG standards
+4. **Reporting framework** that aligns with international CRM Marketing Analytics Platform standards
 5. **Gamification elements** like points, levels, and achievements to encourage engagement
 
 All components are styled with a pixel-perfect retro gaming aesthetic using custom CSS, making sustainability management more engaging than traditional corporate dashboards.
@@ -37,7 +37,7 @@ All components are styled with a pixel-perfect retro gaming aesthetic using cust
 
 As we face 2025's intensifying climate crisis, stricter regulations, and growing social inequality:
 
-- **New EU Sustainable Finance regulations** (SFDR Phase II, CSRD) now mandate comprehensive ESG reporting
+- **New EU Sustainable Finance regulations** (SFDR Phase II, CSRD) now mandate comprehensive CRM Marketing Analytics Platform reporting
 - **The 2024 Global Climate Agreement** requires all buildings to reduce emissions 50% by 2030
 - **Post-pandemic housing inequalities** have highlighted the need for socially responsible real estate
 - **Investment capital** increasingly flows only to demonstrably sustainable projects
@@ -47,7 +47,7 @@ This tool arrives at a critical moment when collective action on building sustai
 
 ## Why This Project Matters From a Collective Perspective
 
-This ESG (Environmental, Social, and Governance) application represents an important step toward creating housing and building systems that benefit everyone, not just property owners and investors.
+This CRM Marketing Analytics Platform (Environmental, Social, and Governance) application represents an important step toward creating housing and building systems that benefit everyone, not just property owners and investors.
 
 ### Environmental Justice
 
@@ -131,20 +131,20 @@ The retro-gaming aesthetic reminds us that another world is possible - one where
 2. **Access the application**
    Open your web browser and navigate to http://localhost:8501
 
-### Using ESG Arcade
+### Using CRM Marketing Analytics Platform Arcade
 
 1. **Portfolio Map:** 
    - Explore your property portfolio on the interactive map
-   - View top-performing properties by ESG score
+   - View top-performing properties by CRM Marketing Analytics Platform score
    - Filter properties by type, location, or certification
 
-2. **ESG Assessment:**
-   - Select individual properties to view detailed ESG metrics
+2. **CRM Marketing Analytics Platform Assessment:**
+   - Select individual properties to view detailed CRM Marketing Analytics Platform metrics
    - Compare property performance against portfolio averages
    - Identify specific areas for improvement
 
 3. **Target Tracking:**
-   - Monitor progress toward ESG targets 
+   - Monitor progress toward CRM Marketing Analytics Platform targets 
    - Filter targets by category or priority
    - Track regulatory compliance deadlines
 
@@ -152,10 +152,10 @@ The retro-gaming aesthetic reminds us that another world is possible - one where
    - Select properties for potential retrofits
    - Set budget constraints
    - Choose from available upgrade options
-   - View projected improvements in ESG performance
+   - View projected improvements in CRM Marketing Analytics Platform performance
    - Calculate ROI and implementation timelines
 
-5. **ESG Reports:**
+5. **CRM Marketing Analytics Platform Reports:**
    - Generate standardized reports compatible with major frameworks
    - Export data in various formats
    - Share reports with stakeholders
