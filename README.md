@@ -1,4 +1,4 @@
-# ESG Arcade: Real Estate Edition
+# CRM Marketing Analytics Platform
 
 ![image](https://github.com/user-attachments/assets/27f2db71-224d-4e06-87f5-464507e45589)
 ![image](https://github.com/user-attachments/assets/5345c1b2-aeaa-4052-b85c-651b21f7d58f)
